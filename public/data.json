@@ -1,0 +1,222 @@
+[
+  {
+    "_id": 1,
+    "title": "Long sleeve Jacket",
+    "isNew": true,
+    "oldPrice": "200",
+    "price": 150,
+    "description": " A long sleeve jacket, typically designed for warmth, offers full arm coverage, stylish protection, and is ideal for cooler weather.",
+    "category": "women",
+    "image": "https://images.pexels.com/photos/2584269/pexels-photo-2584269.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": 4
+  },
+  {
+    "_id": 2,
+    "title": "Jacket with wollen hat",
+    "isNew": true,
+    "oldPrice": "70",
+    "price": 65,
+    "description": " A jacket paired with a woolen hat offers cozy warmth and style, perfect for chilly weather and outdoor adventures. ",
+    "category": "women",
+    "image": "https://images.pexels.com/photos/2681751/pexels-photo-2681751.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": 3
+  },
+  {
+    "_id": 3,
+    "title": "Compact fashion t-shirt",
+    "isNew": true,
+    "oldPrice": "70",
+    "price": 55.99,
+    "description":"A compact fashion t-shirt features a sleek, fitted design, offering modern style and comfort for a versatile, minimalist look.",
+    "category": "women",
+    "image": "https://images.pexels.com/photos/2752045/pexels-photo-2752045.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": 3
+  },
+  {
+    "_id": 4,
+    "title": "Blue jins",
+    "isNew": true,
+    "oldPrice": "70",
+    "price": 50,
+    "description":"Blue jeans are timeless, durable denim pants, offering classic style, comfort, and versatility for casual or semi-casual wear.",
+     "category": "women",
+    "image": "https://images.pexels.com/photos/1485031/pexels-photo-1485031.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": 3
+  },
+  {
+    "_id": 5,
+    "title": "Skirts with full setup",
+    "isNew": true,
+    "oldPrice": "800",
+    "price": 695,
+    "description":"A full skirt setup includes a coordinated top and skirt, creating a stylish, complete outfit perfect for formal or casual occasions",
+     "category": "women",
+    "image": "https://images.pexels.com/photos/1631181/pexels-photo-1631181.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": 5
+  },
+  {
+    "_id": 6,
+    "title": "Yellow Hoody",
+    "isNew": false,
+    "oldPrice": "200",
+    "price": 180,
+    "description":"A yellow hoodie offers casual comfort with a pop of color, featuring a cozy hood and perfect for laid-back styles.",
+     "category": "men",
+    "image": "https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": 4
+  },
+  {
+    "_id": 7,
+    "title": "Black t-shirt for women",
+    "isNew": false,
+    "oldPrice": "60",
+    "price": 20,
+    "description":"A black t-shirt for women offers versatile, comfortable style, perfect for casual wear or layering with various outfits.",
+     "category": "women",
+    "image": "https://images.pexels.com/photos/2010812/pexels-photo-2010812.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": 2
+  },
+  {
+    "_id": 8,
+    "title": "Gouwn with Red velvet",
+    "isNew": false,
+    "oldPrice": "500",
+    "price": 350,
+    "description":"A red velvet gown exudes elegance and luxury, with its rich texture and deep color, perfect for formal occasions",
+     "category": "women",
+    "image": "https://images.pexels.com/photos/2233703/pexels-photo-2233703.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": 3
+  },
+  {
+    "_id": 9,
+    "title": "Pink beauty",
+    "isNew": false,
+    "oldPrice": "150",
+    "price": 100,
+    "description":"Pink beauty refers to a charming, feminine aesthetic characterized by soft, rosy hues that evoke elegance, warmth, and grace.",
+     "category": "women",
+    "image": "https://images.pexels.com/photos/2065195/pexels-photo-2065195.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": 3
+  },
+  {
+    "_id": 10,
+    "title": "Jean's stylish Jacket",
+    "isNew": false,
+    "oldPrice": "250",
+    "price": 245,
+    "description":"Jean's stylish jacket is a fashionable, tailored garment with unique designs, vibrant colors, and a perfect blend of style and comfort.",
+     "category": "men",
+    "image": "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": 5
+  },
+  {
+    "_id": 11,
+    "title": "Jamdani Saree",
+    "isNew": false,
+    "oldPrice": "1000",
+    "price": 800,
+    "description":"A traditional Bengali silk saree with intricate, handwoven floral and geometric patterns, showcasing elegance and cultural heritage.",
+     "category": "women",
+    "image": "https://images.pexels.com/photos/3363204/pexels-photo-3363204.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": 4
+  },
+  {
+    "_id": 12,
+    "title": "Black Jacket",
+    "isNew": false,
+    "oldPrice": "200",
+    "price": 140,
+    "description":  "A sleek, versatile, and timeless piece, perfect for formal events, casual wear, or adding edge to any outfit.",
+    "category": "men",
+    "image": "https://images.pexels.com/photos/983497/pexels-photo-983497.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": 3
+  },
+  {
+    "_id": 13,
+    "title": "Black top with jeans",
+    "isNew": false,
+    "oldPrice": "130",
+    "price": 120,
+    "description": " A classic, chic, and effortless combination, perfect for casual outings, everyday wear, or dressing up.      ",
+    "category": "women",
+    "image": "https://images.pexels.com/photos/3672825/pexels-photo-3672825.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": 4
+  },
+  {
+    "_id": 14,
+    "title": "Clothes with bag",
+    "isNew": false,
+    "oldPrice": "80",
+    "price": 50,
+    "description": " Clothes with bag: A perfect pairing, where stylish garments meet functional accessories, completing a look and enhancing personal style.",
+    "category": "kids",
+    "image": "https://images.pexels.com/photos/36029/aroni-arsa-children-little.jpg?auto=compress&cs=tinysrgb&w=600",
+    "rating": 2
+  },
+  {
+    "_id": 15,
+    "title": "Stylish jeans in lightblue",
+    "isNew": false,
+    "oldPrice": "120",
+    "price": 100,
+    "description":"Stylish light blue jeans: Faded, distressed, or straight-leg, these versatile denim pants exude casual charm and effortless summer style perfectly.",
+     "category": "women",
+    "image": "https://images.pexels.com/photos/2738792/pexels-photo-2738792.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": 4
+  },
+  {
+    "_id": 16,
+    "title": "Unknown horizon",
+    "isNew": false,
+    "oldPrice": "400",
+    "price": 350,
+    "description":"Unknown horizon: A mysterious, unexplored boundary, beckoning curiosity and adventure, where possibilities unfold and the future awaits discovery eagerly.",
+     "category": "men",
+    "image": "https://images.pexels.com/photos/2866077/pexels-photo-2866077.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": 4
+  },
+  {
+    "_id": 17,
+    "title": "Light tops",
+    "isNew": false,
+    "oldPrice": "140",
+    "price": 120,
+    "description":"Light tops: Airy, breathable, and effortlessly chic, perfect for warm weather, layering, or adding a touch of elegance to any outfit.",
+     "category": "women",
+    "image": "https://images.pexels.com/photos/2010925/pexels-photo-2010925.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": 3
+  },
+  {
+    "_id": 18,
+    "title": "Khakhi jeans",
+    "isNew": false,
+    "oldPrice": "250",
+    "price": 190,
+    "description":"Khaki jeans: Comfortable, versatile, and earth-toned, these casual pants blend rugged charm with relaxed style for everyday wear effortlessly.",
+     "category": "women",
+    "image": "https://images.pexels.com/photos/3054973/pexels-photo-3054973.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": 4
+  },
+  {
+    "_id": 19,
+    "title": "Black full sleeve",
+    "isNew": false,
+    "oldPrice": "180",
+    "price": 170,
+    "description":"A black full sleeve is a long-sleeved garment, typically worn for warmth, style, or protection, often made of fabric.",
+     "category": "women",
+    "image": "https://images.pexels.com/photos/2693849/pexels-photo-2693849.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": 3
+  },
+  {
+    "_id": 20,
+    "title": "Formal for Men",
+    "isNew": false,
+    "oldPrice": "500",
+    "price": 490,
+    "description":"Men's formal wear includes suits, dress shirts, ties, trousers, polished shoes, and accessories like belts, cufflinks, and watches.",
+     "category": "women",
+    "image": "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": 5
+  }
+]

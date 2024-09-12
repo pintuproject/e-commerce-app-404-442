@@ -1,0 +1,32 @@
+/* NavbarComponent.css */
+.custom-navbar {
+    background-color: #333;
+    padding: 10px;
+    position: fixed ; /* For Safari */
+    z-index: 1030; /* Ensures the navbar stays above other content */
+    width: 100%; /* Ensures the navbar takes full width */
+     
+  }
+  
+  .navbar-brand-custom {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #ffcc00 !important;  /* Custom color for the brand */
+  }
+  
+  .nav-item-custom {
+    font-size: 2rem;
+    margin-right: 15px;
+    color: #ffffff !important;  /* Custom color for navigation items */
+    
+  }
+  
+  .nav-item-custom:hover {
+    color: #ffcc00 !important;  /* Hover effect */
+  }
+.nav{
+  position: fixed;
+  width: 100%;
+  z-index: 1030
+}
+

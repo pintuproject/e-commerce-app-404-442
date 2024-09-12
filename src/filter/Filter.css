@@ -1,0 +1,8 @@
+.card-filter {
+    /* For Safari */
+    position: fixed;
+    top: 0px; /* Adjust this value to control the distance from the top */
+     /* Ensures it stays on top of other content */
+     height: 200px;
+     width:200px
+  }
