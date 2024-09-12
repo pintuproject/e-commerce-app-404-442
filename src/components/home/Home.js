@@ -4,12 +4,12 @@ import axios from 'axios'
 import { useState } from 'react'
 import Product from '../product/Product'
 import Filter from '../../filter/Filter'
-import { Container, Row, Col, Form, Card, Button } from 'react-bootstrap';
+import { Container, Row, Col } from 'react-bootstrap';
 
 const Home = () => {
   const[products,setProducts]=useState([])
   const [filteredProducts, setFilteredProducts] = useState([]);
-  const [selectedCategory, setSelectedCategory] = useState('');
+  // const [selectedCategory, setSelectedCategory] = useState('');
 
 useEffect(()=>{
   (async()=>{
@@ -34,7 +34,7 @@ useEffect(()=>{
 },[])
 console.log(products)
 const handleFilterChange = (category) => {
-  setSelectedCategory(category);
+  // setSelectedCategory(category);
 
   // Filter products based on the selected category
   if (category === 'men') {

@@ -12,7 +12,7 @@ export const cartReducer=(state,{type,payload})=>{
 
         }
         
-    case 'default':
+    default:
         return{
             ...state
         }

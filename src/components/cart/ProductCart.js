@@ -1,7 +1,7 @@
 import React, { useContext } from 'react'
 import Navigationbar from '../navbar/Navigationbar'
-import { GlobalDispatchContext, GlobalStateContext } from '../context/CartContext'
-import { useEffect } from 'react'
+import {  GlobalStateContext } from '../context/CartContext'
+ 
 import ProductCardHoroizontal from '../product/ProductCardHoroizontal'
 import EmptyCart from './EmptyCart'
 

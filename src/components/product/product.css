@@ -43,10 +43,13 @@
   }
   .card-item{
     margin-left: 140px;
-    margin-top: 30px;
+    margin-top: 80px;
     height: 250px;
   }
   .price-item{
     margin-right: 140px;
-    margin-top: 30px;
+    margin-top: 80px;
+  }
+  .inCart{
+    margin-top: 100px;
   }
