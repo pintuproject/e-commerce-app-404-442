@@ -3,9 +3,6 @@ import { Form, Card } from 'react-bootstrap';
 import './Filter.css'
 
 const Filter = ({onFilterChange}) => {
-     
-     
-      
         const handleCategoryChange = (event) => {
           const category = event.target.value;
            onFilterChange(category)
